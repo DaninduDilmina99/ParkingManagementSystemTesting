@@ -1,3 +1,3 @@
 # ParkingManagementSystemTesting
-Testing repo for my Parking Project Codes
+Tested repo for my Parking Project Codes
 
